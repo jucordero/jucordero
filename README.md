@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I'm currently is based in the Department of Environment and Geography at the University of York. I'm primarily interested in the development of scientific software, big data research, visual representation of data, predictive numerical models and the effect of measurement uncertainty on model parameter estimation.
+
+I have worked developing food system models which can help predict the effect of systemic transformations of food production, storage, processing and consumption on measurable indicators with an emphasis on the effects on business models, dietary choices and environmental impact. I have also worked on identifying how environmental and resilience goals can be achieved when systems are faced with shocks and crises.
+
+Before becoming an environment scientist, I did a PhD in Astrophysics at the University of Manchester, and worked at the [Dark Energy Survey](https://www.darkenergysurvey.org/) where I contributed to the estimation of cosmological parameter uncertainty from photometric redshift biases in the Y3 3x2pt pipeline.
+I was also part of the [SkyPy collaboration](https://skypy.readthedocs.io/en/stable/) which developed a simulation package for forward modelling.
+
+Email: juanpablo.cordero [at] york.ac.uk
+
 <!--
 **jucordero/jucordero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
