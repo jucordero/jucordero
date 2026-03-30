@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm currently is based in the Department of Environment and Geography at the University of York. I'm primarily interested in the development of scientific software, big data research, visual representation of data, predictive numerical models and the effect of measurement uncertainty on model parameter estimation.
+I'm currently based in the Department of Environment and Geography at the University of York. I'm primarily interested in the development of scientific software, big data research, visual representation of data, predictive numerical models and the effect of measurement uncertainty on model parameter estimation.
 
 I have worked developing food system models which can help predict the effect of systemic transformations of food production, storage, processing and consumption on measurable indicators with an emphasis on the effects on business models, dietary choices and environmental impact. I have also worked on identifying how environmental and resilience goals can be achieved when systems are faced with shocks and crises.
 
